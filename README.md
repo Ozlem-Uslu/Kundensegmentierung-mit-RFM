@@ -6,7 +6,7 @@ Ein E-Commerce-Unternehmen möchte seine Kunden segmentieren und Marketingstrate
 
 ### Datensatzgeschichte ####
 
-Der Datensatz „Online Retail II“ umfasst die Umsätze eines in Großbritannien ansässigen Online-Shops zwischen dem 01.12.2009 und dem 09.12.2011.
+Der Datensatz „Online Retail II“ umfasst die Umsätze eines in Großbritannien ansässigen Online-Shops zwischen dem 01.12.2010 und dem 09.12.2011.
 
 ### Variablen ###
 
